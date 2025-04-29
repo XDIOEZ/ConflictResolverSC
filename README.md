@@ -1,2 +1,2 @@
 # ConflictResolverSC
-适用于Unity
+适用于Unity的解决git合并冲突的脚本
